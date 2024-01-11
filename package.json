@@ -1,0 +1,15 @@
+{
+    "name": "bank8service",
+    "version": "1.0.0",
+    "private": true,
+    "description": "A service for Bank8",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "axios": "^0.21.1"
+    }
+  }
