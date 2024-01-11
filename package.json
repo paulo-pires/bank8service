@@ -1,15 +1,22 @@
 {
-    "name": "bank8service",
-    "version": "1.0.0",
-    "private": true,
-    "description": "A service for Bank8",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "axios": "^0.21.1"
-    }
-  }
+  "name": "@paulo-pires/bank8service",
+  "version": "1.0.0",
+  "description": "A service for Bank8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulo-pires/bank8service.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paulo-pires/bank8service/issues"
+  },
+  "homepage": "https://github.com/paulo-pires/bank8service#readme"
+}
